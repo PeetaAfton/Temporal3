@@ -1,0 +1,9 @@
+C:\Users\gordo\source\repos\Temporal3\Temporal3\bin\Debug\Temporal3.exe.config
+C:\Users\gordo\source\repos\Temporal3\Temporal3\bin\Debug\Temporal3.exe
+C:\Users\gordo\source\repos\Temporal3\Temporal3\bin\Debug\Temporal3.pdb
+C:\Users\gordo\source\repos\Temporal3\Temporal3\obj\Debug\Temporal3.csproj.AssemblyReference.cache
+C:\Users\gordo\source\repos\Temporal3\Temporal3\obj\Debug\Temporal3.Properties.Resources.resources
+C:\Users\gordo\source\repos\Temporal3\Temporal3\obj\Debug\Temporal3.csproj.GenerateResource.cache
+C:\Users\gordo\source\repos\Temporal3\Temporal3\obj\Debug\Temporal3.csproj.CoreCompileInputs.cache
+C:\Users\gordo\source\repos\Temporal3\Temporal3\obj\Debug\Temporal3.exe
+C:\Users\gordo\source\repos\Temporal3\Temporal3\obj\Debug\Temporal3.pdb
